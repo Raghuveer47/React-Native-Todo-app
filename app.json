@@ -1,12 +1,16 @@
 {
   "expo": {
     "name": "my-app",
+    "scheme": "aora",
     "slug": "my-app",
     "version": "1.0.0",
     "platforms": [
       "ios",
       "android",
       "web"
+    ],
+    "plugins": [
+      "expo-router"
     ]
   }
 }
